@@ -1,5 +1,5 @@
 # java_learn_sort
-Learning Java part 6 - sorting
+Learning Java part 7 - sorting
 
 
 This was coded as part of a TUM introduction in programming course.
